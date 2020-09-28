@@ -1,0 +1,18 @@
+{
+  "books": [
+    {
+      "id": "01",
+      "title": "Neww Book",
+      "author": "Indu Shukla",
+      "publisher": "Any publisher 001",
+      "stock": "111"
+    },
+    {
+      "id": "02",
+      "title": "indu title",
+      "author": "Indu",
+      "publisher": "indu publisher",
+      "stock": "100"
+    }
+  ]
+}

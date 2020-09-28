@@ -1,0 +1,11 @@
+{
+  "books": [
+    {
+      "id": "1",
+      "title": "Eloquent JavaScript, Second Edition",
+       "author": "Marijn Haverbeke",
+      "publisher": "No Starch Press",
+      "stock": "10"
+    }
+  ]
+}
